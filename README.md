@@ -1,4 +1,4 @@
-# Image Classification: Happy-or-Sad
+# Image Classification: Cats-vs-Dogs
 The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify images of dogs from images of cats.
 
 This assignment is part of the "DeepLearning.AI TensorFlow Developer" course.
