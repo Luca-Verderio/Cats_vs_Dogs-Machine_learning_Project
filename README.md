@@ -1,5 +1,5 @@
 # Image Classification: Happy-or-Sad
-The goal of the project was to implement a Deep Neural Network to classify images of dogs from images of cats.
+The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify images of dogs from images of cats.
 
 This assignment is part of the "DeepLearning.AI TensorFlow Developer" course.
 
@@ -17,7 +17,7 @@ The model is comprised of a sequential group of layers, as follows:
 
 ## Data
 The original data set is the following:  
--	[Happy-or-Sad Data Set](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zipt)
+-	[Cats-vs-Dogs Data Set](https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip)
 
 ## Tools
 Programming language: **Python**  
